@@ -1,0 +1,11 @@
+D:\DotNetTemp\Ocelot\TestClient\bin\Debug\netcoreapp2.0\TestClient.deps.json
+D:\DotNetTemp\Ocelot\TestClient\bin\Debug\netcoreapp2.0\TestClient.runtimeconfig.json
+D:\DotNetTemp\Ocelot\TestClient\bin\Debug\netcoreapp2.0\TestClient.runtimeconfig.dev.json
+D:\DotNetTemp\Ocelot\TestClient\bin\Debug\netcoreapp2.0\TestClient.dll
+D:\DotNetTemp\Ocelot\TestClient\obj\Debug\netcoreapp2.0\TestClient.csproj.CoreCompileInputs.cache
+D:\DotNetTemp\Ocelot\TestClient\obj\Debug\netcoreapp2.0\TestClient.AssemblyInfoInputs.cache
+D:\DotNetTemp\Ocelot\TestClient\obj\Debug\netcoreapp2.0\TestClient.AssemblyInfo.cs
+D:\DotNetTemp\Ocelot\TestClient\obj\Debug\netcoreapp2.0\TestClient.csprojResolveAssemblyReference.cache
+D:\DotNetTemp\Ocelot\TestClient\bin\Debug\netcoreapp2.0\TestClient.pdb
+D:\DotNetTemp\Ocelot\TestClient\obj\Debug\netcoreapp2.0\TestClient.dll
+D:\DotNetTemp\Ocelot\TestClient\obj\Debug\netcoreapp2.0\TestClient.pdb

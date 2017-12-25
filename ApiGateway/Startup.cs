@@ -8,32 +8,28 @@ using Ocelot.Middleware;
 using CacheManager.Core;
 using ConfigurationBuilder = Microsoft.Extensions.Configuration.ConfigurationBuilder;
 using System;
-
+using Ocelot.JWTAuthorizePolicy;
 namespace ApiGateway
 {
     public class Startup
     {
-        public Startup(IHostingEnvironment env)
+        public Startup(IConfiguration configuration)
         {
-            var builder = new ConfigurationBuilder()
-                        .SetBasePath(env.ContentRootPath)
-                        .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true)
-                        .AddJsonFile($"appsettings.{env.EnvironmentName}.json", optional: true)
-                        .AddJsonFile("configuration.json")
-                        .AddEnvironmentVariables();
-            Configuration = builder.Build();
+            Configuration = configuration;
         }
 
-        public IConfigurationRoot Configuration { get; }
+        public IConfiguration Configuration { get; }
 
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddOcelot(Configuration); //此处添加Ocelot服务
+            var audienceConfig = Configuration.GetSection("Audience");
+            services.AddOcelotJwtBearer(audienceConfig["Issuer"], audienceConfig["Audience"], audienceConfig["Secret"], "RyanBearer");
+            services.AddOcelot(Configuration as ConfigurationRoot); //此处添加Ocelot服务
         }
 
         public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
         {
-            loggerFactory.AddConsole(Configuration.GetSection("Logging"));
+            //loggerFactory.AddConsole(Configuration.GetSection("Logging"));
 
             app.UseOcelot().Wait();//此处使用Ocelot服务
         }

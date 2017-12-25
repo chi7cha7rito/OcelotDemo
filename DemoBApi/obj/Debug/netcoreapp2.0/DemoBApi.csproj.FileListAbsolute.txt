@@ -14,6 +14,8 @@ D:\DotNetTemp\Ocelot\DemoBApi\bin\Debug\netcoreapp2.0\DemoBApi.runtimeconfig.jso
 D:\DotNetTemp\Ocelot\DemoBApi\bin\Debug\netcoreapp2.0\DemoBApi.runtimeconfig.dev.json
 D:\DotNetTemp\Ocelot\DemoBApi\bin\Debug\netcoreapp2.0\DemoBApi.dll
 D:\DotNetTemp\Ocelot\DemoBApi\bin\Debug\netcoreapp2.0\DemoBApi.pdb
+D:\DotNetTemp\Ocelot\DemoBApi\bin\Debug\netcoreapp2.0\Ocelot.JWTAuthorizePolicy.dll
+D:\DotNetTemp\Ocelot\DemoBApi\bin\Debug\netcoreapp2.0\Ocelot.JWTAuthorizePolicy.pdb
 D:\DotNetTemp\Ocelot\DemoBApi\obj\Debug\netcoreapp2.0\DemoBApi.csprojResolveAssemblyReference.cache
 D:\DotNetTemp\Ocelot\DemoBApi\obj\Debug\netcoreapp2.0\DemoBApi.csproj.CoreCompileInputs.cache
 D:\DotNetTemp\Ocelot\DemoBApi\obj\Debug\netcoreapp2.0\DemoBApi.AssemblyInfoInputs.cache

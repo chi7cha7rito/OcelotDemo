@@ -9,11 +9,15 @@ D:\DotNetTemp\ApiGateway\obj\Debug\netcoreapp2.0\ApiGateway.AssemblyInfo.cs
 D:\DotNetTemp\ApiGateway\bin\Debug\netcoreapp2.0\ApiGateway.pdb
 D:\DotNetTemp\ApiGateway\obj\Debug\netcoreapp2.0\ApiGateway.dll
 D:\DotNetTemp\ApiGateway\obj\Debug\netcoreapp2.0\ApiGateway.pdb
+D:\DotNetTemp\Ocelot\ApiGateway\bin\Debug\netcoreapp2.0\appsettings.json
+D:\DotNetTemp\Ocelot\ApiGateway\bin\Debug\netcoreapp2.0\configuration.json
 D:\DotNetTemp\Ocelot\ApiGateway\bin\Debug\netcoreapp2.0\ApiGateway.deps.json
 D:\DotNetTemp\Ocelot\ApiGateway\bin\Debug\netcoreapp2.0\ApiGateway.runtimeconfig.json
 D:\DotNetTemp\Ocelot\ApiGateway\bin\Debug\netcoreapp2.0\ApiGateway.runtimeconfig.dev.json
 D:\DotNetTemp\Ocelot\ApiGateway\bin\Debug\netcoreapp2.0\ApiGateway.dll
 D:\DotNetTemp\Ocelot\ApiGateway\bin\Debug\netcoreapp2.0\ApiGateway.pdb
+D:\DotNetTemp\Ocelot\ApiGateway\bin\Debug\netcoreapp2.0\Ocelot.JWTAuthorizePolicy.dll
+D:\DotNetTemp\Ocelot\ApiGateway\bin\Debug\netcoreapp2.0\Ocelot.JWTAuthorizePolicy.pdb
 D:\DotNetTemp\Ocelot\ApiGateway\obj\Debug\netcoreapp2.0\ApiGateway.csprojResolveAssemblyReference.cache
 D:\DotNetTemp\Ocelot\ApiGateway\obj\Debug\netcoreapp2.0\ApiGateway.csproj.CoreCompileInputs.cache
 D:\DotNetTemp\Ocelot\ApiGateway\obj\Debug\netcoreapp2.0\ApiGateway.AssemblyInfoInputs.cache

@@ -8,6 +8,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using Ocelot.JWTAuthorizePolicy;
 
 namespace DemoBApi
 {
@@ -23,6 +24,14 @@ namespace DemoBApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            var audienceConfig = Configuration.GetSection("Audience");
+            services.AddOcelotPolicyJwtBearer(audienceConfig["Issuer"], audienceConfig["Audience"], audienceConfig["Secret"], "RyanBearer", "Permission", "/demobapi/denied");
+            var permission = new List<Permission>
+            {
+                new Permission{ Url = "/demobapi/values",Name="admin"},
+                new Permission{Url="/",Name="admin"}
+            };
+            services.AddSingleton(permission);
             services.AddMvc();
         }
 

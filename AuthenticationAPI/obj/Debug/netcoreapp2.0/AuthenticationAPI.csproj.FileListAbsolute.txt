@@ -1,0 +1,13 @@
+D:\DotNetTemp\Ocelot\AuthenticationAPI\bin\Debug\netcoreapp2.0\AuthenticationAPI.deps.json
+D:\DotNetTemp\Ocelot\AuthenticationAPI\bin\Debug\netcoreapp2.0\AuthenticationAPI.runtimeconfig.json
+D:\DotNetTemp\Ocelot\AuthenticationAPI\bin\Debug\netcoreapp2.0\AuthenticationAPI.runtimeconfig.dev.json
+D:\DotNetTemp\Ocelot\AuthenticationAPI\bin\Debug\netcoreapp2.0\AuthenticationAPI.dll
+D:\DotNetTemp\Ocelot\AuthenticationAPI\bin\Debug\netcoreapp2.0\AuthenticationAPI.pdb
+D:\DotNetTemp\Ocelot\AuthenticationAPI\bin\Debug\netcoreapp2.0\Ocelot.JWTAuthorizePolicy.dll
+D:\DotNetTemp\Ocelot\AuthenticationAPI\bin\Debug\netcoreapp2.0\Ocelot.JWTAuthorizePolicy.pdb
+D:\DotNetTemp\Ocelot\AuthenticationAPI\obj\Debug\netcoreapp2.0\AuthenticationAPI.csprojResolveAssemblyReference.cache
+D:\DotNetTemp\Ocelot\AuthenticationAPI\obj\Debug\netcoreapp2.0\AuthenticationAPI.csproj.CoreCompileInputs.cache
+D:\DotNetTemp\Ocelot\AuthenticationAPI\obj\Debug\netcoreapp2.0\AuthenticationAPI.AssemblyInfoInputs.cache
+D:\DotNetTemp\Ocelot\AuthenticationAPI\obj\Debug\netcoreapp2.0\AuthenticationAPI.AssemblyInfo.cs
+D:\DotNetTemp\Ocelot\AuthenticationAPI\obj\Debug\netcoreapp2.0\AuthenticationAPI.dll
+D:\DotNetTemp\Ocelot\AuthenticationAPI\obj\Debug\netcoreapp2.0\AuthenticationAPI.pdb
