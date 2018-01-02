@@ -16,7 +16,6 @@ D:\DotNetTemp\Ocelot\DemoAApi\bin\Debug\netcoreapp2.0\DemoAApi.dll
 D:\DotNetTemp\Ocelot\DemoAApi\bin\Debug\netcoreapp2.0\DemoAApi.pdb
 D:\DotNetTemp\Ocelot\DemoAApi\bin\Debug\netcoreapp2.0\Ocelot.JWTAuthorizePolicy.dll
 D:\DotNetTemp\Ocelot\DemoAApi\bin\Debug\netcoreapp2.0\Ocelot.JWTAuthorizePolicy.pdb
-D:\DotNetTemp\Ocelot\DemoAApi\obj\Debug\netcoreapp2.0\DemoAApi.csprojResolveAssemblyReference.cache
 D:\DotNetTemp\Ocelot\DemoAApi\obj\Debug\netcoreapp2.0\DemoAApi.csproj.CoreCompileInputs.cache
 D:\DotNetTemp\Ocelot\DemoAApi\obj\Debug\netcoreapp2.0\DemoAApi.AssemblyInfoInputs.cache
 D:\DotNetTemp\Ocelot\DemoAApi\obj\Debug\netcoreapp2.0\DemoAApi.AssemblyInfo.cs
